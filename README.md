@@ -1,6 +1,6 @@
 # Calculator
 
-# LGMVIP-Web_-Task-2-WebCalculator
+# LGMVIP-Web_-Task-3-WebCalculator
 Task 1 for LetsGrowMore Internship,
 To Do List (HTML, CSS, JavaScript)
 
